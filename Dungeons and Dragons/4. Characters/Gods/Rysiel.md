@@ -1,1 +1,1 @@
-![Rysiel screenshot](content/Images/Rysiel%20screenshot.png)
+![Rysiel screenshot](Images/Rysiel.png)

@@ -1,8 +1,7 @@
 ---
-title: Alexander's Passing"
+title: Alexander's Passing
 draft: false
 tags:
-  - 
 ---
 Everything fades to white, and you find yourselves facing a majestic sunset. Before you is an endless expanse of water perfectly reflecting the twilight sky, the sun exactly halfway down the horizon such that its reflection on the water forms the circle whole. The sky blazes orange outwards from the star and as your gaze sweeps across the sky you see it bleed into purple, into blue, and then racing into the endless, starry night behind. Walking around you see the water ripple, and yet it doesn't travel as far as you'd expect, instead quickly sinking back into the reflective sheen of still water. 
 

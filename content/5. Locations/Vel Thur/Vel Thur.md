@@ -2,6 +2,7 @@
 title: Vel Thur
 draft: false
 tags:
+  - nation
 ---
 
 The great forest of the north is home to the firstborn elves, a graceful and proud people that live for thousands of years. Their religion claims that the elves emerged from the roots of [Veleria](5.%20Locations/Points%20of%20Interest/Veleria%20World%20Tree.md), the World Tree and were welcomed by the goddess [Rysiel](4.%20Characters/Gods/Rysiel.md) herself. As such, they hold themselves superior to the rest of Milterra. Elvish culture is slow and tedious, at least by mortal standards. They prefer to linger upon the smallest decisions and are rarely in a hurry to finish their task.

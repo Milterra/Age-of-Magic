@@ -2,6 +2,7 @@
 title: Slyphon
 draft: false
 tags:
+  - nation
 ---
 
 Much can be said about the kingdom of men. In one era of history, they stretched from one end of the continent to another. In another era, they fractured into independent city-states following a bloody succession war that saw no king crowned and left a kingdom of corpses in its wake. In today’s era, the current king is the fourth descendant of [Slyphon the Sunmaker](Slyphon%20the%20Sunmaker), a conqueror who united the smaller princedoms of man into a mighty nation. Following its major defeat at the hands of Agnor’s wizards in the war fifty years ago, Slyphon’s territory receded to the edges of the continent and remains a sore spot for the kingdom and its people.
