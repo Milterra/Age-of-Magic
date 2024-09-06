@@ -1,0 +1,7 @@
+A gateway that opens into the astral sea. Caused by the [Coven's](Dungeons%20and%20Dragons/7.%20Factions/Coven%20of%20the%20Shadow%20Queen/Coven%20of%20the%20Shadow%20Queen.md) disastrous first attempt to anchor a [](Dungeons%20and%20Dragons/3.%20Encounters/Cool%20ideas.md#Tomb%20of%20Heroes|Hero's%20Tomb). The incident blew open the side of a mountain and caused a strong earthquake. The coven quickly erased all traces of themselves and left, leaving the maw open and connecting the material realm to the aether. 
+
+The Maw was discovered by the world when a Battle Dragon escaped and terrorized Garena. The dragon was subdued through great loss of life, and the Maw has since been settled and fortified. A barrier has been erected over the entrance by the magicians of Milin, controlling access into and out of the Astral sea. The discovery of valuable loot inside the Maw has driven a technological race to create a seafaring vehicle that can traverse the astral sea.
+
+In the present day, it has been 50 years since Milterrans have started exploring the astral sea. The path is dangerous and always uncertain, with no consistent path, for the planes in the astral sea, the material plane including, are always shifting in location. These astral sailors only navigate based on experience, knowing what to do and where to turn when certain landmarks appear.
+
+When the players complete the spell to anchor the hero's tomb, it will appear inside the Maw, though the players will need to hire a ship for it.
