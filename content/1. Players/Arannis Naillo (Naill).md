@@ -15,6 +15,8 @@ tags:
 
 **Description:** Naill is 373 years old, 184 cm tall, 72 kg heavy, with obsidian skin, blue eyes, and silver hair. On top of his sorcery, he also specializes in daggers and light crossbows. 
 
+Current owner of the [Crown](../8.%20Items/Naill's%20Crown.md)
+
 ![Naill](images/Naill.png)
 
 

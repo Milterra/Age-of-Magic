@@ -287,6 +287,7 @@ thead {
   color: var(--dark);
   font-weight: revert;
   margin-bottom: 0;
+  
 
   article > & > a[role="anchor"] {
     color: var(--dark);
@@ -319,6 +320,7 @@ h1 {
   font-size: 1.75rem;
   margin-top: 2.25rem;
   margin-bottom: 1rem;
+  border-bottom: 1px solid #c14343;
 }
 
 h2 {

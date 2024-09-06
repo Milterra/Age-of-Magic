@@ -18,4 +18,4 @@ tags:
 ![Drea](images/Krispy.png)
 
 # Background
-Krispy Drea is a merchant in [Agnor](5.%20Locations/Agnor/Agnor.md) (Krispy Drea's Magical Jewels and Wares). She specializes in these magical items, her regular clientele being the students and _researchers_(?) from the local campus of [Milin](Milin). While she's been handling these magical items for a good while, she's only recently (and accidentally) discovered that she has magic of her own.
+Krispy Drea is a merchant from [Noria](../5.%20Locations/Agnor/Noria.md). Her shop specializes in magical items, her regular clientele being the students and _researchers_(?) from the local campus of [Milin](Milin). While she's been handling these magical items for a good while, she's only recently (and accidentally) discovered that she has magic of her own.

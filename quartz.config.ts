@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Milterra",
+    pageTitle: "Milterra",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -41,11 +41,11 @@ const config: QuartzConfig = {
         darkMode: {
           light: "#1A1E24",
           lightgray: "#393639",
-          gray: "#646464",
+          gray: "#ffeded",
           darkgray: "#BCCAD8",
           dark: "#C14343",
-          secondary: "##E06C75",
-          tertiary: "##BF5E5E",
+          secondary: "#AAB3CA",
+          tertiary: "#BF5E5E",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#571A1A",
         },
