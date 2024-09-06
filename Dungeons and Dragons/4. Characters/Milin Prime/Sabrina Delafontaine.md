@@ -1,8 +1,0 @@
-Drow sorcerer. Blessed with incredibly detailed future sight, but only those involving great mana use. Since childhood, she has seen horrible visions of battle and magical atrocities. As such, she has grown to be reticent and paranoid, even overly suspicious. She prefers to be alone, though deep inside she wishes that she had somebody to talk to whenever she has her episodes.
-
-Sabrina considers [Lazari](Lazari%20Saavedra) her “savior” and confidante. They met when the head cleric of the Milin infirmary reached out to Lazari, a well-known specialist on magical diseases and mental maladies. Lazari is currently treating Sabrina’s PTSD and they have made great progress on keeping her emotions in check during her episodes. Recently, they’ve made a breakthrough where Sabrina was able to stay calm enough in her visions to describe everything in detail.
-
-### What she doesn't know
-Lazari is using her visions to find hints about their future successes. Specifically, Lazari wants to interrupt a wedding between [Elena Dusk](Elena%20Dusk) and [Danverse La Valliere](Danverse%20La%20Valliere), and he knows there's gonna be a big fight.
-
-Aside from that, he's also grooming Sabrina to be the vessel of the [Shadow Queen's](Dungeons%20and%20Dragons/4.%20Characters/Eradawn%20Rebellion/Coven/Queen%20of%20Shadow%20and%20Blood.md) reincarnation in this era. She has the proper lineage, magic potential and capacity, and the vulnerability to be manipulated. To this end, Lazari is collecting the [Artifacts of the Shadow Queen](Dungeons%20and%20Dragons/8.%20Items/Artifacts%20of%20the%20Shadow%20Queen/Artifacts%20of%20the%20Shadow%20Queen.md) so that Sabrina can attune them and open her soul up to possession.

@@ -12,7 +12,7 @@ tags:
 
 **Occupation:** Lazari's Right-Hand Man(?) 
 
-**Location:** [Gien](Dungeons%20and%20Dragons/5.%20Locations/Agnor/Gien.md)
+**Location:** [Gien](5.%20Locations/Agnor/Gien.md)
 
 **Details:** Commissioned the adventurers at the 21st day of Tiavast 6030 to rob the mausoleum deep in the forests of Namine. **Notes:**
 

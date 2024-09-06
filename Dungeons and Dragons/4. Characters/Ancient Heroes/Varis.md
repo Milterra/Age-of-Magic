@@ -1,4 +1,0 @@
-Varis – Half-elf (drow) Druid, guardian of the [](Dungeons%20and%20Dragons/5.%20Locations/Points%20of%20Interest/Veleria%20World%20Tree.md#Fruit|Veleria%20World%20Seed)
-- Is buried in a mountain
-- He spread the [The Beacon of Hope](Dungeons%20and%20Dragons/6.%20Lore/Stories/The%20Beacon%20of%20Hope.md) to all cultures of Milterra before he sacrificed his life to create a second world tree in the Garena mountain range.
-- The second world tree was designed specifically to siphon the divine spark Veleria, making it the only place to obtain the World Seed in this era. This garden was hidden deep in the snowy mountaincaps of Garena

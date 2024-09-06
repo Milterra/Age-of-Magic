@@ -1,1 +1,0 @@
-A lake of ultrapure water that never spoils. The area surrounding the lake is afflicted with magical radiation that makes magicians lose control of their spells and slowly kill them over time.

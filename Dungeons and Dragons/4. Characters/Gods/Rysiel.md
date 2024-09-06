@@ -1,1 +1,0 @@
-![Rysiel screenshot](Images/Rysiel.png)
