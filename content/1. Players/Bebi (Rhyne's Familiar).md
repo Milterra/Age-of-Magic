@@ -10,7 +10,7 @@ tags:
 
 **Species**: Raven (familiar) 
 
-Companion of Rhyne
+Companion of [Rhyne](Rhyne.md)
 
 ![Bebi](images/Bebi.png)
 ![Bebi Statblock](images/Bebi%20Statblock.png)
