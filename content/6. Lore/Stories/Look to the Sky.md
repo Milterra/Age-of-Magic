@@ -5,10 +5,10 @@ tags:
   - song
 ---
 **Winston the Bard**
-Hush now, my dear, don't let them hear 
-Quiet footsteps in the night, 
-Turn to slumber, hold your temper 
-Don't let the kobolds hear your fright
+Hush now, my dear, don't let them hear  
+Quiet footsteps in the night,  
+Turn to slumber, hold your temper  
+Don't let the kobolds hear your fright  
 
 **Chorus**
 Look to the sky, answer my call 
