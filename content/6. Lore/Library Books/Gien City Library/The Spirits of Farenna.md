@@ -6,6 +6,7 @@ tags:
 ---
 The book seems to be a short story about two lovers fighting together as soldiers in a war. It is quick, fantastical, and features a fictional magic system where every person is born with a spirit twin that they must befriend in order to use their magic. You quickly flip through the pages detailing their romance, their struggles, and their triumph. In the climax, after a particularly tragic reveal, you flip to the next chapter and see the corner of the page folded. Written on the fold in an elegant script is, "**For Rhyne**".
 
+---
 ## Chapter 46: Violin
 
 _Clack, clack, clack, clack._
@@ -86,35 +87,35 @@ Uncontrollable tears stream down my face as the song plays in my mind over and o
 
 The bedframe explodes, engulfing the mattress in a fiery blaze.
 
-_~Are you going to Scarborough Fair?~_ His song echoes inside my head and a fresh wave of sobbing takes control of my body.
+**Are you going to Scarborough Fair?** His song echoes inside my head and a fresh wave of sobbing takes control of my body.
 
 The wardrobe quickly catches on fire, and the air is filled with the smell of burnt cotton and leather.
 
-_~Yesterday holds memories in time~_, Stop it stop it stop it! This isn’t real! He's not *dead*!
+**Yesterday holds memories in time**, Stop it stop it stop it! This isn’t real! He's not *dead*!
 
 The nightstand is thrown at impossible speeds by Cresentia’s magic, and it breaks into a million pieces upon crashing onto the wall.
 
-_~Remember me to the one who lives there~_ Please… oh god please… I’d give anything…
+**Remember me to the one who lives there** Please… oh god please… I’d give anything…
 
 I storm towards the violin and shatter the glass case with my bare hands. Fresh blood smears onto the wood as I grip the neck and pain shoots up my arm as strings bite into new wounds, but I don’t feel them. I don’t feel anything. I feel so empty and it scares me so much that I raise the violin and swing it towards the floor.
 
 But I can’t.
 
-_~She once was a true love of mine~_
+**She once was a true love of mine**
 
 My body stops mid-swing, glowing red and frozen in time. Silence fills the rooms and I try to struggle, but my efforts are all in vain as magic locks my body in place.
 
 “Cresentia, release me!” I screech, finding strength to move my mouth.
 
-**No, Luna**, she finally speaks, a whisper in my mind, and I hate her for it.
+"No, Luna", she finally speaks, a whisper in my mind, and I hate her for it.
 
 “Let me go!” My voice raises an octave. “Cresentia!”
 
-**Don’t do something you’ll soon regret**, she says, and I lose strength as the weight of my emotions comes crashing down inside me.
+"Don’t do something you’ll soon regret", she says, and I lose strength as the weight of my emotions comes crashing down inside me.
 
 I begin to wail, an unrestrained cry of raw grief that comes flooding out of my heart. Cresentia finally releases me from her magic, and I fall onto the floor cradling the violin close to my chest.
 
-My teardrops ceaselessly overflow onto the varnished wood, materializing everything that I’ve yet to say, and everything that’s already been said; every moment yet to happen, and every moment already past; every place we’ve yet to visit, and every place we’ve already gone; every vow we’ve yet to make, and every vow we’ve already made.
+My teardrops endlessly overflow onto the varnished wood, materializing everything that I’ve yet to say, and everything that’s already been said; every moment yet to happen, and every moment already past; every place we’ve yet to visit, and every place we’ve already gone; every vow we’ve yet to make, and every vow we’ve already made.
 
 I sit surrounded by the embers and ashes of our memories, and in one final, desperate plea, I cry out his name.
 
@@ -128,9 +129,13 @@ I sit surrounded by the embers and ashes of our memories, and in one final, desp
  > My Dearest Rhyne,
  > 
  >I once believed this tale to be full of fanciful delusions, a thing of excessive emotion and folly, cherished by foolish teens from Noria—those who have yet to learn the weight of life’s realities. But since I met you, I've started to think that, maybe, the story was not so meaningless after all. Perhaps I was the fool, unwilling to look beyond the illusion and discover what's truly important.
+ >
  >You burst into my life like the rising sun after a cold winter's night. In you I found a kindred soul who understands those quiet parts of me that I scarcely show the world. Though our time together was short, know that my feelings for you are not the fleeting flames of youthful fancy, but the unyielding fire of a hearth well-tended, giving warmth even in the coldest of hours. To be away from you is a deep pain such that I have never known, and I found that the world has lost its color in the dawn of our parting.
+ >
  >Rhyne, this cannot be our last farewell. I will not have it! Promise me that you will stay alive. Though we're miles apart, know that you will never stray far from my thoughts. Should you need aid, present my heirloom to any Verena office in Milterra and they will help you as best they can. Send word to me and I will come, or send someone who can help.
+ >
 >Let's meet again under the silent light of the library halls. _Hindi ako bumati sa simula upang sa huli ay magpaalam._
-> 
+>
 >With all my heart,
+>
 >Lina
